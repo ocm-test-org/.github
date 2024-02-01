@@ -6,7 +6,7 @@ Organization description goes here.
 
 ## NOAA OCM Test Organization Projects
 
-Below is a list of NOAA Affiliated GitHub organizations with a link and brief description. More information on their repositories can be found in the README files of each page.
+Below is a list of the associated projects for NOAA OCM Test Organization. More information on their repositories can be found in the README files of each page.
 
 ### [Historical Hurricane Tracks](https://github.com/ocm-test-org/hurricanes)
 
